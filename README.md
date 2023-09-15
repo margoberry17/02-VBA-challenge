@@ -1,7 +1,7 @@
 # VBA-challenge
 Module 2 Homework 2 VBA Scripting Multi Year Stock Data
 
-'begin code
+
 Sub Stock()
 
 Dim ws As Worksheet
@@ -115,7 +115,7 @@ ws.Activate
         
 Next ws
 End Sub
-'end code
+
 
 
 'Mod2 Resources to help me:
