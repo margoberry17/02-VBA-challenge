@@ -1,6 +1,7 @@
 # VBA-challenge
 Module 2 Homework 2 VBA Scripting Multi Year Stock Data
 
+'begin code
 Sub Stock()
 
 Dim ws As Worksheet
@@ -114,3 +115,9 @@ ws.Activate
         
 Next ws
 End Sub
+'end code
+
+
+'Mod2 Resources to help me:
+'https://stackoverflow.com/questions/43738802/how-to-apply-vba-code-to-all-worksheets-in-the-workbook
+'https://stackoverflow.com/questions/59461571/how-do-i-keep-initial-value-in-a-for-loop
